@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://your.base.url/</loc>
+    <lastmod>2016-04-12T01:21:53+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/project/deep-learning-for-veracity-detection/</loc>
+    <lastmod>2016-04-12T01:21:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/project/deep-learning-for-visual-salience-detection/</loc>
+    <lastmod>2016-04-12T01:21:39+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/project/deep-learning-for-hyperpectral-satellite-images/</loc>
+    <lastmod>2016-04-12T01:21:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/project/deep-user-modelling/</loc>
+    <lastmod>2016-04-12T01:20:49+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/project/multi-modal-deep-learning/</loc>
+    <lastmod>2016-04-12T01:18:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://your.base.url/about/</loc>
+    <lastmod>2015-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
